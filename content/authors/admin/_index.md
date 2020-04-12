@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Bao zhao
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. student in Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, Los Angeles
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Work hard, play hard!
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Energy harvesting
+- Mechatronics
+- Biomechanics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Mechanical Engineering
+    institution: University of California, Los Angeles
+    year: 2024
+  - course: MSc in Electronics Engineering
+    institution: ShanghaiTech University/University of Chinese Academy of Sciences
+    year: 2020
+  - course: BSc in Marine Engineering
+    institution: Harbin Engineering University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: mailto:zhaobao@shanghaitech.edu.cn  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=AsIkeZAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/591909185
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bao Zhao is right now an awarded Master student at ShanghaiTech University, he is goning to continue his PhD study at University of California, Los Angeles. His research interest is highly focued on interdisplinary studies, such as Mechatronics and biomechanics, which may solve real-world multi-flied coupling challenges that are inherently interdisciplinary.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
