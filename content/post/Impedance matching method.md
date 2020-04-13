@@ -5,7 +5,7 @@ categories:
 - Technology
 tags:
 - energy harvesting
-math = true
+math : true
 ---
 
 <p class="description"></p>
