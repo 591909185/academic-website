@@ -1,11 +1,10 @@
 ---
-title: "A dual-effect solution for broadband piezoelectric energy harvesting"
+title: "Phase-variable control of parallel synchronized triple bias-flips interface circuit towards broadband piezoelectric energy harvesting"
 authors:
 - admin
-- Jiahua Wang
 - Junrui Liang
-- Wei-Hsin Liao
-date: "2020-02-10T00:00:00Z"
+- Kang Zhao
+date: "2018-05-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,25 +14,26 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Applied Physics Letters*"
+publication: "*2018 IEEE International Symposium on Circuits and Systems (ISCAS)*"
 publication_short: ""
 
-abstract: Literature has shown that the bandwidth of a piezoelectric energy harvesting (PEH) system can be effectively broadened by introducingnonlinear mechanical dynamics. However, when connected to a practical PEH interface circuit for ac-to-dc conversion, the bandwidthimprovement will be impaired because of the electrically induced damping effect. On the other hand, there is another bandwidth broadeningsolution, in which the resonant frequency is tunable to some extent by carrying out the phase-variable synchronized switch (PVSS) controlin practical interface circuits. This Letter reports a synergistic design by combining these two mechanisms toward a dual-effect broadbandPEH solution. The theoretical model of this nonlinear and electromechanically coupled system is derived. The experimental result showsthat, by introducing the PVSS control to a PEH system, which is composed of a monostable piezoelectric cantilever beam and a practicalsynchronized switch interface circuit, its bandwidth can be broadened by 18.7%. This dual-effect solution incorporates two bandwidthbroadening mechanisms toward practical broadband PEH systems.
+abstract: This paper introduces a new phase-variable switchcontrol for the parallel synchronized triple bias-flip (P-S3BF) interface circuit, towards the broadband and high-capability piezoelectric energy harvesting (PEH) systems. By using the phasevariable P-S3BF (PV-P-S3BF), both the electrically induceddamping and electrically induced mass/stiffness can be tuned to acertain extent in operation, such that to simultaneously make thedual tasks of broadband and high-capability in PEH. The jointdynamics and harvested power of the PEH systems using the PVP-S3BF circuits are thoroughly discussed based on the harmonicanalysis and impedance modeling. The available range of PV-PS3BF is rationally shown in the complex impedance plane. Theexperimental results obtained with a PCB-level prototyped circuitshow agreement with the analytical results. The new PV-P-S3BFcircuit opens a promising future towards the electrically in-situtunable broadband and high-capability PEH systems.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Nonlinear dynamics
+- Circuit design
+- Energy harvesting
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://metal.shanghaitech.edu.cn/publication/J25.pdf
+url_pdf: http://metal.shanghaitech.edu.cn/publication/C27.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,5 +67,4 @@ slides: " "
 <!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}} -->
-
 
