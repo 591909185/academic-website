@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Active and Passive Smart Structures and Integrated Systems XII SPIE EE/NED 2018*"
+publication: "*Active and Passive Smart Structures and Integrated Systems XII SPIE SS/NED 2018*"
 publication_short: ""
 
 abstract: In the studies of piezoelectric energy harvesting (PEH) systems, literature has shown that the circuit solutionhas a significant effect towards the enhancement of energy harvesting capability under resonance. Some studiesstarted to investigate its bandwidth-broadening effect recently. This paper provides a comprehensive comparisonon the impact of circuit solutions towards the broadband and high-capability energy harvesting. The comparisonis intuitively presented based on the equivalent impedance model. The joint dynamics and harvested powerof the PEH systems using different interface circuits are thoroughly discussed. Simulation and experimentsshow good agreement with the analysis. It has been proved that, within the existing circuit solutions, thecurrently introduced phase-variable synchronized parallel triple bias-flip (PV-P-S3BF) circuit provides the mostextensive span of electrically induced damping (resistive component) and electrically induced stiffness/mass(reactive component). By tuning the values of the two equivalent impedance parts in operation, the tasks ofharvesting capability enhancement and bandwidth broadening can be simultaneously made by using PV-P-S3BF.
