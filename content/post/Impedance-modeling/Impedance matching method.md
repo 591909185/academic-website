@@ -6,6 +6,12 @@ categories:
 tags:
 - energy harvesting
 math : true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ""
+  focal_point: ""
 ---
 
 For piezoelectric energy harvesting (PEH) systems, over the past decade, there have been tremendous designs for the self-powered sensors targets. Typically we use a weakly coupled PEH system to minimize the influence of electro-mechanical coupling effect, however, it worth noting that in the real applications that the miniaturized structures often means the strong coupling intensity which will influence the performance of the power sources, i.e., such as mechanical oscillators or cantilever beams. Therefore, it is necessary to address the effect of different coupling intensities to execute the impedance matching method for maximizing the harvested power as well as the robust designs for various power sources. 

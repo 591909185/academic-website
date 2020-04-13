@@ -6,15 +6,20 @@ categories:
 tags:
 - circuit design
 - nonlinear dynamics
----
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ""
+  focal_point: ""
+---
 
 
 
 ### Motivation
 With the development of power electronics, it is not rare to find different types of power conversion circuits such as bidirectional or multidirectional energy conversion solutions, which mainly use active MOSFETs to guide the energy flow in the topologies. Based on a similar concept, we have established a bidirectional energy conversion circuit (BECC) in the piezoelectric energy harvesting area, which realizes the second function of vibration exciting besides the conventional function of energy harvesting. With the entirely new control logic, it has some applications such as self-powered transmitter for nondestructive damage evaluation, and orbits jump functions for nonlinear energy harvesting systems.
 
-<img src="https://s2.ax1x.com/2019/04/16/Ax8CcQ.png" width = "300" height = "200" alt="The prototype of BECC solution" align=center />
+<img src="https://s1.ax1x.com/2020/04/13/GjynFH.md.png" width = "300" height = "200" alt="The prototype of BECC solution" align=center />
 
 
 
