@@ -90,7 +90,7 @@ address = {street = "199 Huanke Rd.", city = "Shanghai", region = "", postcode =
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.177262", longitude = "121.595116"}
+coordinates = {latitude = "31.17954", longitude = "121.59075"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 1D and take the stairs to Office 305 on Floor 3"
@@ -259,7 +259,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
+  engine = 2
   api_key = ""
   zoom = 15
 
