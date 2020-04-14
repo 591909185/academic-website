@@ -69,7 +69,7 @@ image:
   [3]: https://s2.ax1x.com/2019/04/16/Av1RAK.jpg
   [4]: https://s2.ax1x.com/2019/04/16/Av1fhD.jpg
   [5]: https://s2.ax1x.com/2019/04/16/Av1g76.jpg
-  [6]: http://5b0988e595225.cdn.sohucs.com/images/20171231/d44a1d2782174ea7a34ee84ad9c81857.jpeg
+  [6]: https://s1.ax1x.com/2020/04/14/JSudUO.jpg
   [7]: https://s2.ax1x.com/2019/04/16/Av1c0x.jpg
   [8]: https://s2.ax1x.com/2019/04/16/Av151H.jpg
   [9]: https://s2.ax1x.com/2019/04/16/Av149e.jpg
