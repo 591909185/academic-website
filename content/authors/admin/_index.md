@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student in Mechanical Engineering
+role: Master student in Electronics Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Los Angeles
+- name: University of Chinese Academy of Sciences
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,9 +27,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mechanical Engineering
-    institution: University of California, Los Angeles
-    year: 2024
   - course: MSc in Electronics Engineering
     institution: ShanghaiTech University/University of Chinese Academy of Sciences
     year: 2020
