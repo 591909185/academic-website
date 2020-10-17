@@ -29,7 +29,7 @@ function do_update () {
   if [ -f ./netlify.toml ]; then
     # Postfix '.0' to Hugo min_version as sadly it doesn't map to a precise semantic version.
     version=$(sed -n 's/^min_version = //p' themes/academic/theme.toml | tr -d '"')
-    version="${version}.0"
+    version="${version}"
     echo "Set Netlify Hugo version to v${version}"
     sed -i.bak -e "s/HUGO_VERSION = .*/HUGO_VERSION = \"$version\"/g" ./netlify.toml && rm -f ./netlify.toml.bak
   fi
