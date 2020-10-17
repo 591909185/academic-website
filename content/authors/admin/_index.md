@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Bao Zhao is right now an awarded Master student at ShanghaiTech University, he is goning to continue his PhD study at ETH Zurich. His research interest is highly focued on interdisplinary studies, such as energy harvesting and biomechanics, which may solve real-world multi-flied coupling challenges that are inherently interdisciplinary.  
+Bao Zhao is right now an awarded Master student at ShanghaiTech University, he is goning to continue his PhD study at ETH Zurich. His research interests are highly focued on interdisplinary studies, such as energy harvesting and biomechanics, which may solve real-world multi-flied coupling challenges that are inherently interdisciplinary.  
 
