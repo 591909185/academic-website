@@ -10,23 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Master student in Electronics Engineering
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chinese Academy of Sciences
+- name: ETH Zurich
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Work hard, play hard!
 
 interests:
-- Energy harvesting
 - Mechatronics
-- Biomechanics
+- Power Electronics
+- Internet of Things
 
 education:
   courses:
+  - course: Ph.D. in Mechanical Engineering
+    institution: ETH Zurich
+    year: 2021- now
   - course: MSc in Electronics Engineering
     institution: ShanghaiTech University/University of Chinese Academy of Sciences
     year: 2020
@@ -67,5 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Bao Zhao is right now an awarded Master student at ShanghaiTech University, he is goning to continue his PhD study at ETH Zurich. His research interests are highly focued on interdisplinary studies, such as energy harvesting and biomechanics, which may solve real-world multi-flied coupling challenges that are inherently interdisciplinary.  
+When I was a child, I often made small ~~experiments~~ troubles on my grandma's balcony, wondering one day I could reveal some fascinating things. Never thought I would be overwhelmed by these "fascinating things" as I grew up. To the outside world I am a PhD student, but I hunt down engineering problems at ETH Zurich. In my leisure time, I like hiking, skiing, playing guitar, and petting cats.
+
+
 
