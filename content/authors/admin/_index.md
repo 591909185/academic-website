@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-When I was a child, I often made small ~~experiments~~ troubles on my grandma's balcony, wondering one day I could reveal some fascinating things. Never thought I would be overwhelmed by these "fascinating things" as I grew up. To the outside world I am a PhD student, but I hunt down engineering problems at ETH Zurich. In my leisure time, I like hiking, skiing, playing guitar, and petting cats.
+When I was a child, I often made small ~~troubles~~ experiments on my grandma's balcony, wondering one day I could reveal some fascinating things. Never thought I would be overwhelmed by these "fascinating things" as I grew up. To the outside world I am a PhD student, but I hunt down engineering problems at ETH Zurich. In my leisure time, I like hiking, skiing, playing guitar, and petting cats.
 
 
 
