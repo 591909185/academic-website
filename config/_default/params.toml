@@ -86,14 +86,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "199 Huanke Rd.", city = "Shanghai", region = "", postcode = "201210", country = "China", country_code = "CN"}
+address = {street = "Stefano- Franscini-Platz 5", city = "Zurich", region = "", postcode = "8049", country = "Switzerland", country_code = "CH"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.17954", longitude = "121.59075"}
+coordinates = {latitude = "47.41041", longitude = "8.50838"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1D and take the stairs to Office 305 on Floor 3"
+directions = "Enter HIT Building and take the stairs to Office F43 on Floor F"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
